@@ -1,0 +1,19 @@
+2025-09-01 02:13:49,335 INFO func: main
+2025-09-01 02:13:49,337 INFO func: load_cookies
+2025-09-01 02:13:49,337 INFO func: init_driver
+2025-09-01 02:13:50,970 INFO func: restore_cookies_and_open
+2025-09-01 02:14:29,172 INFO Openning https://mangabuff.ru/cards/1/users
+2025-09-01 02:14:29,569 INFO Название карты: Серафина
+2025-09-01 02:14:29,569 INFO Получены комментарии
+2025-09-01 02:14:30,024 ERROR Какая то ошибка! Возможно карта удалена... table cards has no column named image_url
+2025-09-01 02:14:31,025 INFO Openning https://mangabuff.ru/cards/2/users
+2025-09-01 02:14:34,341 INFO Название карты: Анжелика
+2025-09-01 02:14:34,341 INFO Получены комментарии
+2025-09-01 02:14:36,253 ERROR Какая то ошибка! Возможно карта удалена... table cards has no column named image_url
+2025-09-01 02:14:37,254 INFO Openning https://mangabuff.ru/cards/3/users
+2025-09-01 02:14:39,328 INFO Название карты: Сильвия
+2025-09-01 02:14:39,328 INFO Получены комментарии
+2025-09-01 02:14:40,009 ERROR Какая то ошибка! Возможно карта удалена... table cards has no column named image_url
+2025-09-01 02:14:40,507 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)': /session/15b355a020507036a5379a1f1f643399
+2025-09-01 02:14:44,606 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D305E53B10>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/15b355a020507036a5379a1f1f643399
+2025-09-01 02:14:48,681 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3062A8050>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/15b355a020507036a5379a1f1f643399
