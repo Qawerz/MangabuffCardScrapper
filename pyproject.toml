@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "dotenv>=0.9.9",
+    "pytelegrambotapi>=4.29.0",
     "selenium>=4.35.0",
     "selenium-stealth>=1.0.6",
     "tqdm>=4.67.1",

@@ -13,3 +13,4 @@ cookies.json
 cards.db
 *.log
 py_log.log
+*test*
